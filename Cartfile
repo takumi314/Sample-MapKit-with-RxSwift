@@ -1,0 +1,3 @@
+github "mac-cain13/R.swift.Library"
+github "SVProgressHUD/SVProgressHUD"
+github "ReactiveX/RxSwift" ~> 3.0
